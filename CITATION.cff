@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "Xiaofan Wu and Xi Zeng contributed equally. If you use this work, please cite the arXiv version."
+title: "Memory-Conditioned Tool Calling for Camera-First Visual Agents"
+abstract: "Manuscript source for the memory-conditioned tool-calling paper (arXiv:2607.09822)."
+authors:
+  - family-names: Wu
+    given-names: Xiaofan
+    affiliation: Chance AI
+    email: xiaofan@chance.vision
+  - family-names: Zeng
+    given-names: Xi
+    affiliation: Chance AI
+  - family-names: Chen
+    given-names: Miaoxia
+    affiliation: Chance AI
+  - family-names: Chen
+    given-names: Peishan
+    affiliation: Chance AI
+  - family-names: Li
+    given-names: Shuyan
+    affiliation: Chance AI
+  - family-names: Yao
+    given-names: Jiyun
+    affiliation: Chance AI
+  - family-names: Zhong
+    given-names: Hanyong
+    affiliation: Chance AI
+  - family-names: Zhu
+    given-names: Jiahao
+    affiliation: Chance AI
+date-released: "2026-07-10"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Memory-Conditioned Tool Calling for Camera-First Visual Agents"
+  authors:
+    - family-names: Wu
+      given-names: Xiaofan
+    - family-names: Zeng
+      given-names: Xi
+    - family-names: Chen
+      given-names: Miaoxia
+    - family-names: Chen
+      given-names: Peishan
+    - family-names: Li
+      given-names: Shuyan
+    - family-names: Yao
+      given-names: Jiyun
+    - family-names: Zhong
+      given-names: Hanyong
+    - family-names: Zhu
+      given-names: Jiahao
+  year: 2026
+  url: "https://arxiv.org/abs/2607.09822"
+  identifiers:
+    - type: other
+      value: "arXiv:2607.09822"
